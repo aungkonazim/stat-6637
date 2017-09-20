@@ -1,1 +1,0 @@
-setwd("C:\\Users\\aungkon\\Desktop\\stat\\assignment\\stat-6637-double-sample")
